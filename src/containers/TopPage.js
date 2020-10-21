@@ -15,6 +15,7 @@ class TopPage extends Component {
         <section className={styles.contentSection}>
           <div className={styles.sectionInnerWrap}>
             <h1>トップページです</h1>
+            <p>初めてのコミット</p>
           </div>
         </section>
       </div>
